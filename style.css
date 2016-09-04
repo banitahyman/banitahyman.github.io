@@ -76,6 +76,7 @@ body {
 .masthead-nav > li > a {
   padding-right: 0;
   padding-left: 0;
+  font-family: 'Bungee Hairline', display
   font-size: 16px;
   font-weight: bold;
   color: #00b3b3; /* IE8 proofing */
@@ -120,7 +121,7 @@ body {
 }
 
 .cover-heading{
-font-family: 'Cinzel', display;
+font-family: 'Bowlby One SC', display;
 }
 /*
  * Footer
