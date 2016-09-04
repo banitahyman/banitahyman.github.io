@@ -79,7 +79,7 @@ body {
   font-size: 16px;
   font-weight: bold;
   color: #f00; /* IE8 proofing */
-  color: rgba(255,255,255,.75);
+  /*color: rgba(255,255,255,.75);*/
   /*border-bottom: 2px solid transparent;*/
 }
 .masthead-nav > li > a:hover,
@@ -88,12 +88,12 @@ body {
   /*border-bottom-color: #a9a9a9;*/
   /*border-bottom-color: rgba(255,255,255,.25);*/
 }
-/*.masthead-nav > .active > a,
+.masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
   color: #fff;
-  border-bottom-color: #fff;
-}*/
+  /*border-bottom-color: #fff;*/
+}
 
 @media (min-width: 768px) {
   .masthead-brand {
