@@ -123,6 +123,10 @@ body {
 .cover-heading{
 font-family: 'Abril Fatface', cursive;
 }
+
+.lead{
+font-family: 'Poiret One', cursive;
+}
 /*
  * Footer
  */
