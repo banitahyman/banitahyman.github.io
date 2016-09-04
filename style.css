@@ -138,14 +138,17 @@ color: #111109; /* IE8 proofing */
 
 .lead{
 font-family: 'Poiret One', cursive;
+color: #000; /* IE8 proofing */
+  color: rgba(0,0,0,1);
 }
 /*
  * Footer
  */
 
 .mastfoot {
-  color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
+  list-style: none;
+  color: #00b3b3; /* IE8 proofing */
+  color: rgba(0,179,179,1);
 }
 
 
