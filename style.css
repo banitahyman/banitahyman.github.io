@@ -80,7 +80,7 @@ body {
   font-weight: bold;
   color: #f00; /* IE8 proofing */
   color: rgba(255,255,255,.75);
-  border-bottom: 2px solid transparent;
+  /*border-bottom: 2px solid transparent;*/
 }
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
