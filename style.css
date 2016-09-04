@@ -146,7 +146,11 @@ font-family: 'Poiret One', cursive;
 .nav-footer {
 display: inline-block;
 list-style: none;
-padding-right: 20px;
+KJHJ}
+
+.nav-footer li{
+
+  
 }
 
 .fa {
