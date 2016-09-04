@@ -144,15 +144,13 @@ font-family: 'Poiret One', cursive;
  */
 
 .nav-footer {
-display: inline-block;
-list-style: none;
-KJHJ}
-
-.nav-footer li{
-
-  
+list-style-type: none;
 }
 
+.nav-footer li{
+display:inline;
+  
+}
 .fa {
   color: #00b3b3; /* IE8 proofing */
   color: rgba(0,179,179,1);
