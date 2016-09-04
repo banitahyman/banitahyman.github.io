@@ -145,12 +145,11 @@ font-family: 'Poiret One', cursive;
 
 .mastfoot {
 display: inline-block;;
-list-style-type: none;
+list-style: none;
 padding-right: 20px;
 }
 
 .fa {
-  list-style: none;
   color: #00b3b3; /* IE8 proofing */
   color: rgba(0,179,179,1);
 }
