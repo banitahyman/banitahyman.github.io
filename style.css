@@ -147,7 +147,7 @@ font-family: 'Poiret One', cursive;
 list-style-type: none;
 }
 
-.nav-footer li{
+.nav-footer > li{
 display:inline;
   
 }
